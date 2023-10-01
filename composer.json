@@ -1,7 +1,7 @@
 {
-  "name": "pear/xml_htmlsax3",
+  "name": "g-scalvini/xml_htmlsax3",
   "type": "library",
-  "description": "A SAX parser for HTML and other badly formed XML documents. More info available on: https://pear.php.net/package/XML_HTMLSax3",
+  "description": "A SAX parser for HTML and other badly formed XML documents. Fork from pear/XML_HTMLSax3. More info available on: https://pear.php.net/package/XML_HTMLSax3",
   "version": "3.0.0",
   "time": "2007-12-01 22:09:38",
   "license": [
@@ -16,11 +16,15 @@
     {
       "email": "hfuecks@phppatterns.com",
       "name": "Harry Fuecks"
+    },
+    {
+      "email": "g.scalvini98@gmail.com",
+      "name": "Giorgio Scalvini"
     }
   ],
   "support": {
-    "issues": "https://github.com/pear/XML_HTMLSax3/issues",
-    "source": "https://github.com/pear/XML_HTMLSax3"
+    "issues": "https://github.com/g-scalvini/XML_HTMLSax3/issues",
+    "source": "https://github.com/g-scalvini/XML_HTMLSax3"
   },
   "require": {
     "php": ">=5.3.3"
