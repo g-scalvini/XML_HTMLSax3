@@ -4,6 +4,9 @@ All notable changes to this project will be documented in this file.
 
 --------------------------------------------------------------------------------
 
+## [4.1.0] - 2023-10-10
+* Remove PHP4 syntax from examples and test [g-scalvini]
+
 ## [4.0.0] - 2023-10-04
 * Add travis [CloCkWeRX]
 * Swap tests to PHPUnit [CloCkWeRX]
@@ -16,7 +19,7 @@ All notable changes to this project will be documented in this file.
 * [BK - Drop PHP 5.1 and 5.2 support] PHP5 cleanup - Drop support for PHP before 5.3.3 [g-scalvini]
 * Refactoring decorators class introducing abstract class XML_HTMLSax3_Decorator [g-scalvini]
 * Add changelog file [g-scalvini]
-* [BK - Drop PHP before 5.3.3 support] Modified PHPUnit inclusion to support composer autoloader
+* [BK - Drop PHP before 5.3.3 support] Modified PHPUnit inclusion to support composer autoloader [g-scalvini]
 
 ## [3.0.0] - 2007-12-01
 * Fixed bug #1850  HTMLtoXHTML.php does not produce XHTML [dufuz]

@@ -27,11 +27,11 @@
   <email>hfuecks@phppatterns.com</email>
   <active>no</active>
  </lead>
- <date>2023-10-04</date>
- <time>08:35:00</time>
+ <date>2023-10-10</date>
+ <time>21:55:00</time>
  <version>
-  <release>4.0.0</release>
-  <api>4.0.0</api>
+  <release>4.1.0</release>
+  <api>4.1.0</api>
  </version>
  <stability>
   <release>stable</release>
@@ -76,6 +76,21 @@
  </dependencies>
  <phprelease />
  <changelog>
+  <release>
+   <date>2023-10-04</date>
+   <time>08:35:00</time>
+   <version>
+    <release>4.0.0</release>
+    <api>4.0.0</api>
+   </version>
+   <stability>
+    <release>stable</release>
+    <api>stable</api>
+   </stability>
+   <license uri="https://www.php.net/license/3_01.txt">PHP 3.01</license>
+   <license uri="https://www.gnu.org/licenses/lgpl-3.0.txt">LGPL 3.0</license>
+   <notes>See docs/changelog.md for complete changelog.</notes>
+  </release>
   <release>
    <date>2007-12-01</date>
    <time>22:09:38</time>

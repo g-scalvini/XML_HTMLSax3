@@ -2,8 +2,8 @@
   "name": "g-scalvini/xml_htmlsax3",
   "type": "library",
   "description": "A SAX parser for HTML and other badly formed XML documents. Fork from pear/XML_HTMLSax3. More info available on: https://pear.php.net/package/XML_HTMLSax3",
-  "version": "4.0.0",
-  "time": "2023-10-04 08:35:00",
+  "version": "4.1.0",
+  "time": "2023-10-10 21:55:00",
   "license": [
     "PHP-3.01",
     "LGPL-3.0-only"
